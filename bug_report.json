@@ -1,5 +1,5 @@
 {
-"Environment" : "iPhone X iOS 16.1.1"	;
+"Environment" : "iPhone X iOS 16.1.1"	,
  "Title" : "The background of the large widget in the 'Coin widget' section doesn't change	";
 "Steps" : { "Step 1." : "Open the 'Bitcoin price' application";
             "Step 2." : "Toggle to the 'Lock screen'";
