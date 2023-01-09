@@ -1,3 +1,7 @@
-{
-  "Bug_report" : "Bug_12"
-}
+iPhone X iOS 16.1.1	The background of the large widget in the "Coin widget" section doesn't change	"1. Open the ""Bitcoin price"" application
+2. Toggle to the ""Lock screen""
+3. Scroll down to the ""Coin widget""
+4. Tap the [Edit]
+5.Toggle to the ""Background color""
+6. Tap the [Save]"	"The background color of both widgets
+ of the ""Coin widget"" section changes"	Only background of the round widget changes color 	link	@fufilya
