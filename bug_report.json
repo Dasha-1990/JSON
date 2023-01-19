@@ -1,3 +1,13 @@
 {
-  "Bug_report" : "Bug_12"
+"Environment" : "iPhone X iOS 16.1.1"	,
+ "Title" : "The background of the large widget in the 'Coin widget' section doesn't change	",
+"Steps" : { "Step 1." : "Open the 'Bitcoin price' application",
+            "Step 2." : "Toggle to the 'Lock screen'",
+            "Step 3." : "Scroll down to the 'Coin widget'",
+            "Step 4." : "Tap the [Edit]",
+            "Step 5." : "Toggle to the 'Background color'",
+            "Step 6." "Tap the [Save]"	}
+"Expected result" : "The background color of both widgets of the 'Coin widget' section changes",
+ "Actual result": "Only background of the round widget changes color" ,	
+"Author" : " @fufilya"
 }
